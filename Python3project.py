@@ -3,6 +3,7 @@ import random
 import time
 pygame.init()
 
+testvar = 0
 clock = pygame.time.Clock()
 
 screen_width = 576
